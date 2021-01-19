@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8468428c-9bab-4bd4-b8b1-fb43d1e05b5c" name="Default Changelist" comment="refactor clearInput method to be available on all OS&#10;remove msedgedriver from dependencies and configuration">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8468428c-9bab-4bd4-b8b1-fb43d1e05b5c" name="Default Changelist" comment="refactor clearInput method to be available on all OS&#10;remove msedgedriver from dependencies and configuration" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,11 +127,11 @@
     </configuration>
     <list>
       <item itemvalue="npm.report:open" />
+      <item itemvalue="npm.test:chrome:headless" />
       <item itemvalue="npm.report:generate" />
       <item itemvalue="npm.test:firefox" />
       <item itemvalue="npm.test:firefox:headless" />
       <item itemvalue="npm.test:chrome" />
-      <item itemvalue="npm.test:chrome:headless" />
     </list>
     <recent_temporary>
       <list>
@@ -142,6 +158,7 @@
       <workItem from="1610676225842" duration="623000" />
       <workItem from="1610716123244" duration="3855000" />
       <workItem from="1610767471689" duration="1266000" />
+      <workItem from="1611033302621" duration="605000" />
     </task>
     <task id="LOCAL-00001" summary="refactor clearInput method to be available on all OS&#10;remove msedgedriver from dependencies and configuration">
       <created>1610394593595</created>
